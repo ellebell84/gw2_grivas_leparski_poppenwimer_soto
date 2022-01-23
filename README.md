@@ -1,5 +1,6 @@
-# gw2_grivas_leparski_poppenwimer_soto
- HTML5 Coded Webpage - Convert to a Responsive Page
+ OVERVIEW
+ 
+ PROJECT PART 2: HTML5 Coded Webpage - Convert to a Responsive Page
  
 DESCRIPTION
 Using the site you created in Group Work 1, you will use media queries to convert the page into a responsive site.
